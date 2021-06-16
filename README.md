@@ -1,5 +1,5 @@
 
-# open_stream_mobile
+# open stream mobile
 
 open streaming plateform for everyone
 
