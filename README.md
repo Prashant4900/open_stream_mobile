@@ -20,5 +20,5 @@ samples, guidance on mobile development, and a full API reference.
 apk=https://drive.google.com/file/d/1T5uEgaK7_D6JPZSd_-OCLwvwqm2-okRE/view?usp=sharing
 
 ## Sample Images
-![login + signup](https://user-images.githubusercontent.com/62440911/112030277-1e83af80-8b60-11eb-987d-5c8436d315d1.jpg)
-![image](https://user-images.githubusercontent.com/62440911/112031285-2bed6980-8b61-11eb-878c-53504814adcb.jpg)
+![login + signup](https://github.com/Prashant4900/open_stream_mobile/blob/master/screenshorts/112030277-1e83af80-8b60-11eb-987d-5c8436d315d1.jpg?raw=true)
+![image](https://github.com/Prashant4900/open_stream_mobile/blob/master/screenshorts/112031285-2bed6980-8b61-11eb-878c-53504814adcb.jpg?raw=true)
